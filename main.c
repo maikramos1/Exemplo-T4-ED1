@@ -1,11 +1,3 @@
-/*Nome: Maik Ramos Maifredo. 
-Matrícula 2022200556.
-
-checkpoint do motoqueiro fantasma brasileiro
-
-Olá professor, esse código é o mesmo da entrega 4
-caso já tenha feito a correção do T4 olhando os requisitos do TF já da pra pular a correção desse código
-bom descanso*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
